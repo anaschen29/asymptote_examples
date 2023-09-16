@@ -1,3 +1,9 @@
+Given a triangle $ABC$ satisfying $AC+BC=3\cdot AB$. The incircle of triangle $ABC$ has center $I$ and touches the sides $BC$ and $CA$ at the points $D$ and $E$, respectively. 
+Let $K$ and $L$ be the reflections of the points $D$ and $E$ with respect to $I$. Prove that the points $A$, $B$, $K$, $L$ lie on one circle.
+
+
+Asympote_Cod_Below:
+
 pair B = origin;
 pair C = (4,0);
 pair A = 3*dir(35.430945);
