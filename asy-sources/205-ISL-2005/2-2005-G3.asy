@@ -1,3 +1,8 @@
+Let $ABCD$ be a parallelogram. A variable line $g$ through the vertex $A$ intersects the rays $BC$ and $DC$ at the points $X$ and $Y$, respectively. Let $K$ and $L$ be the $A$-excenters of the triangles $ABX$ and $ADY$. Show that the angle $\measuredangle KCL$ is independent of the line $g$.
+
+
+Asymptote_code_below:
+
 pair excenter(pair A=(0,0), pair B=(0,0), pair C=(0,0))
 {
     pair P,Q;
