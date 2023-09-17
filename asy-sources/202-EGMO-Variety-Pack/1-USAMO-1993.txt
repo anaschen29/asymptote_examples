@@ -1,3 +1,7 @@
+Let $\, ABCD \,$ be a convex quadrilateral such that diagonals $\, AC \,$ and $\, BD \,$ intersect at right angles, and let $\, E \,$ be their intersection. Prove that the reflections of $\, E \,$ across $\, AB, \, BC, \, CD, \, DA \,$ are concyclic.
+
+Asymptote_code_below:
+
 pair A = (0,4);
 pair B = (6,0);
 pair C = (0,-3);
